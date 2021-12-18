@@ -5,6 +5,7 @@
 > Thanks to all contributors, you're awesome and wouldn't be possible without you! Our goal is to build a categorized community-driven collection of very well-known resources.
 
 
+![python](https://github.com/paulveillard/cybersecurity-python-security/blob/main/img/python-security.png)
 
 ## Table of Contents
 - [Tools](#tools)
