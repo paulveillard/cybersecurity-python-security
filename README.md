@@ -14,36 +14,36 @@
 - [Other](#other)
 - [Contributing](#contributing)
 
-# Tools
+# `Tools`
 
-## Web Framework Hardening
+## `Web Framework Hardening`
 
 - [Secure.py](https://github.com/cakinney/secure.py) - secure.py 🔒 is a lightweight package that adds optional security headers and cookie attributes for Python web frameworks.
 - [Flask-HTTPAuth](https://github.com/miguelgrinberg/flask-httpauth/) - Simple extension that provides Basic, Digest and Token HTTP authentication for Flask routes.
 - [Flask Talisman](https://github.com/GoogleCloudPlatform/flask-talisman) - Talisman is a small Flask extension that handles setting HTTP headers that can help protect against a few common web application security issues.
 - [Django Session CSRF](https://github.com/mozilla/django-session-csrf) - CSRF protection for Django without cookies.
 
-## Multi tools
+## `Multi tools`
 
 - [hawkeye](https://github.com/hawkeyesec/scanner-cli) - Multi purpose security/vulnerability/risk scanning tool supporting Ruby, Node.js, Python, PHP and Java.
 - [GuardRails](https://github.com/apps/guardrails) - A GitHub App that gives you instant security feedback in your Pull Requests.
 - [Hubble](https://github.com/hubblestack/hubble) - Hubble is a modular, open-source security compliance framework.
 - [Salus](https://github.com/coinbase/salus) - Multi purpose security scanning tool supporting Ruby, Node, Python and Go.
 
-## Static Code Analysis
+## `Static Code Analysis`
 
 - [Bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
 - [Pyt](https://github.com/python-security/pyt) - A Static Analysis Tool for Detecting Security Vulnerabilities in Python Web Applications.
 - [Detect Secrets](https://libraries.io/pypi/detect-secrets) - An enterprise friendly way of detecting and preventing secrets in code.
 
-## Vulnerabilities and Security Advisories
+## `Vulnerabilities and Security Advisories`
 
 - [Safety](https://github.com/pyupio/safety) - Safety checks your installed dependencies for known security vulnerabilities.
 - [snyk Vulnerability DB](https://snyk.io/vuln?type=pip) - Commercial but free listing of known vulnerabilities in libraries.
 - [Common Vulnerabilities and Exposures](https://www.cvedetails.com/vulnerability-list/vendor_id-10210/product_id-18230/Python-Python.html) - Vulnerabilities that were assigned a CVE. Covers the language and packages.
 - [National Vulnerability Database](https://nvd.nist.gov/vuln/search/results?form_type=Basic&results_type=overview&query=python&search_type=all) - Python known vulnerabilities in the National Vulnerability Database.
 
-## Penetration Testing
+## `Penetration Testing`
 
 - [EvilTwinFramework](https://github.com/Esser420/EvilTwinFramework) - A framework for pentesters that facilitates evil twin attacks as well as exploiting other wifi vulnerabilities.
 - [sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
